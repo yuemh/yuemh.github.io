@@ -56,8 +56,8 @@ ul.posts li {
 }
 
 .col {
-  flex: 1; /* additionally, equal width */
-  
+   /* flex: 1; */
+  /* additionally, equal width */
   padding: 1em;
-  border: solid;
+  /* border: solid;*/
 }
