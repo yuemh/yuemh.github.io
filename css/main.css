@@ -1,6 +1,7 @@
 body {
-    margin: 10% auto;
+    margin: 2% auto;
     width: 80%;
+    max-width: 1200px;
     background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
