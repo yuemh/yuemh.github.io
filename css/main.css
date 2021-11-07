@@ -16,12 +16,12 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    width:100%;
+    background:black;
 }
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-    width:100%;
-    background:black;
 }
 a {
     text-decoration: none;
